@@ -1,6 +1,6 @@
 package lomination.ddnettools
 
-import parser.MyParser
+import lomination.ddnettools.parser.MyParser
 import scala.util.Using
 import scala.io.Source
 import java.io.PrintWriter
